@@ -11,4 +11,4 @@ The goal of this project is to simulate how a real company can use SQL to make d
 
 Schema-Music Store Database
 
-<img width="600" height="500" alt="MusicDatabaseSchema" align="left" src="https://github.com/user-attachments/assets/c5b1c869-31e6-48b5-82e6-65467fa02867" />
+<img width="600" height="500" alt="MusicDatabaseSchema" align="left" src="diagrams/MusicDatabaseSchema.png"/>
